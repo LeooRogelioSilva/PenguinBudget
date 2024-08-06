@@ -1,0 +1,7 @@
+{
+  "name": "PenguinBudget",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
